@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh", BTV
+http://tvserver3.roarzone.info:25461/live/free/roarzone/53.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh", GTV
 http://10.16.100.203:8082/bangla/gtv.m3u8
@@ -279,6 +281,9 @@ https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music", 9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Music", Zoom
+http://tvserver3.roarzone.info:25461/live/free/roarzone/60.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b1CvJaq.jpg" group-title="Music", MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
@@ -396,6 +401,9 @@ https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/
 #EXTINF:-1 tvg-logo="" group-title="Sports", FOX Sports
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Sports", Willow
+http://tvserver3.roarzone.info:25461/live/free/roarzone/70.m3u8
+
 #EXTINF:-1 tvg-logo="http://roarmediazone.com/tv/weblogo/84.jpg" group-title="Kids", Duronto TV
 http://freeiptv.thunderbd.com:25461/live/free/roarzone/10.m3u8
 
@@ -444,13 +452,13 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCpU328.png" group-title="Infotainment", Nat Geo
 http://otv.ftpbd.net/streams/110/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Infotainment", Nat Geo Wild
+http://tvserver3.roarzone.info:25461/live/free/roarzone/35.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery Bangla
 http://tvserver3.roarzone.info:25461/live/free/roarzone/43.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery
-http://otv.ftpbd.net/streams/121/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery English
 http://136.243.177.164/DISCOVERYCHANNEL/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery Hindi
@@ -482,6 +490,9 @@ https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Arabic", ATN Islamic
+http://tvserver3.roarzone.info:25461/live/free/roarzone/60.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Arabic", Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
