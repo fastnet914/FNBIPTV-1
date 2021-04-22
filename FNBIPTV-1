@@ -41,7 +41,6 @@ http://10.16.100.205/hls/21etv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Bangladesh", Ekushey TV-2
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smQTKhu.png" group-title="Bangladesh", Channel I
 http://10.16.100.205/hls/ch_i.m3u8
 
@@ -207,14 +206,23 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 #EXTINF:-1 tvg-logo="https://i.imgur.com/srDdTAH.png" group-title="English", Sony Movies Action
 http://51.52.156.22:8888/http/009
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LxxN62Y.png" group-title="English", Star Movies
-http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6Ctimeg.png" group-title="English", HBO HD
+http://185.71.64.6:80/8999266861/9205486393/85304
+
+#EXTINF:-1 tvg-logo="" group-title="English", HBO2
+http://185.71.64.6:80/8999266861/9205486393/85303
+
+#EXTINF:-1 tvg-logo="" group-title="English", HBO3
+http://185.71.64.6:80/8999266861/9205486393/85302
+
+#EXTINF:-1 tvg-logo="" group-title="English", FOX MOVIES
+http://185.71.64.6:80/8999266861/9205486393/85278
+
+#EXTINF:-1 tvg-logo="" group-title="English", AXN
+http://185.71.64.6:80/8999266861/9205486393/85287
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dZIukWq.jpg" group-title="English", Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6Ctimeg.png" group-title="English", HBO
-http://136.243.177.164/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jDvMOrc.png" group-title="English", Sony PIX HD
 http://10.16.100.204:8082/hls/sony_pixhd_bd_720.m3u8
@@ -237,8 +245,11 @@ http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lG5Cq0E.jpg" group-title="English", Discovery Max Movie
 http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eWVvRFj.png" group-title="English", DMax Movie
+#EXTINF:-1 tvg-logo="" group-title="English", CINEMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English", CINEMAX2
+http://185.71.64.6:80/8999266861/9205486393/85291
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gKruzs.png" group-title="English", &Pictures HD
 http://10.16.100.204:8082/hls/&Pictures_hd_bd.m3u8
@@ -262,7 +273,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4S4K9z.jpg" group-title="Music", GaanBangla
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/58.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bTYCrJv.jpg" group-title="Music", 9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?Live-TV%E2%84%A2
@@ -411,26 +422,14 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 #EXTINF:-1 tvg-logo="" group-title="Sports", Willow
 http://tvserver3.roarzone.info:25461/live/free/roarzone/70.m3u8
 
-#EXTINF:-1 tvg-logo="http://roarmediazone.com/tv/weblogo/84.jpg" group-title="Kids", Duronto TV
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/10.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids", PBS KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/bUkI61Y.jpg" group-title="Kids", 3abnkids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/kMUpeIA.jpg" group-title="Kids", Akaram Kids
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/5w4pHCw.png" group-title="Kids", Cartoon Network-1
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/79.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/5w4pHCw.png" group-title="Kids", Cartoon Network-2
-http://otv.ftpbd.net/streams/123/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/68tINkO.png" group-title="Kids", Nick
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/55.m3u8
-
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/Np8QMQr.jpg" group-title="Kids", Disney HD
-http://otv.ftpbd.net/streams/122/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids", Aniplus
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/index.m3u8
@@ -457,16 +456,13 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 http://210.210.155.35/dr9445/h/h02/01.m3u8?Live-TV%E2%84%A2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCpU328.png" group-title="Infotainment", Nat Geo
-http://otv.ftpbd.net/streams/110/index.m3u8
+http://185.71.64.6:80/8999266861/9205486393/85252
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", Nat Geo Wild
-http://tvserver3.roarzone.info:25461/live/free/roarzone/35.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery Bangla
-http://tvserver3.roarzone.info:25461/live/free/roarzone/43.m3u8
+http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery
-http://136.243.177.164/DISCOVERYCHANNEL/index.m3u8?h=WTL4O0zvYYEAVfZX-dwXvg
+http://185.71.64.6:80/8999266861/9205486393/85272
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery Hindi
 https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
@@ -477,8 +473,11 @@ https://itvorigin.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery Science HINDI
 https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Infotainment", History
+http://185.71.64.6:80/8999266861/9205486393/85249
+
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", Animal Planet HD
-http://136.243.177.164/ANIMALPLANET/playlist.m3u8
+http://185.71.64.6:80/8999266861/9205486393/85275
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjEmwoE.jpg" group-title="Infotainment", BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
