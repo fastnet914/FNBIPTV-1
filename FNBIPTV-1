@@ -104,9 +104,6 @@ http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jow0GIB.jpg" group-title="Indian Bangla", Zee Bangla
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/smBNb4D.jpg" group-title="Indian Bangla", Zee Bangla Cinema-1
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/29.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fb6e6Tx.png" group-title="Hindi", Zeetv
 http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
 
@@ -131,14 +128,8 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi", Zee Mundo
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?Live-TV%E2%84%A2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fBcuntW.jpg" group-title="Hindi", STAR Plus-1
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/67.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fBcuntW.jpg" group-title="Hindi", STAR Plus-2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fBcuntW.jpg" group-title="Hindi", STAR Plus
 http://10.16.100.204:8082/hls/starplus_bd_hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8992ZHp.jpg" group-title="Hindi", Star Gold HD
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/75.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i6BTtXf.jpg" group-title="Hindi", &TV
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
@@ -147,10 +138,10 @@ http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 http://10.16.100.201/hindi/&tv_1stop_bd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EzFn347.jpg" group-title="Hindi", &Pictures-1
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/100.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EzFn347.jpg" group-title="Hindi", &Pictures-2
-http://10.16.100.201/hindi/&pictures_1stop_in.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNOxztj.jpg" group-title="Hindi", Sony TV
 http://10.16.100.201/hindi/sonytv_1stop_bd.m3u8
@@ -252,7 +243,10 @@ https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 http://185.71.64.6:80/8999266861/9205486393/85291
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6gKruzs.png" group-title="English", &Pictures HD
-http://10.16.100.204:8082/hls/&Pictures_hd_bd.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English", Blue Ant Entertainment
+http://45.126.83.51/dr9445/h/h16/index.m3u8http://45.126.83.51/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9Pv59kf.png" group-title="English", Dust (Sci-Fi)
 https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
@@ -344,8 +338,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/TSbHhJl.png" group-title="Sports", T Sports-1
 http://10.16.100.207:8082/sports/sportst.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/TSbHhJl.png" group-title="Sports", T Sports-2
-http://10.16.100.201/hindi/sportsT.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports", Sony Ten 1
 http://10.16.100.207:8082/sports/ten1_720.m3u8
@@ -482,8 +474,8 @@ http://185.71.64.6:80/8999266861/9205486393/85275
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjEmwoE.jpg" group-title="Infotainment", BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Infotainment", CNN
-http://203.162.235.41:16918
+#EXTINF:-1 tvg-logo="" group-title="Infotainment", Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CIQxcun.png" group-title="Infotainment", DW
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=10&rebase=on
