@@ -104,6 +104,9 @@ http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jow0GIB.jpg" group-title="Indian Bangla", Zee Bangla
 http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 
+EXTINF: -1 tvg-logo="https://i.imgur.com/7de2eCX.jpg" group-title="Indian Bangla", Zee Bangla Cinema
+https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902450
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fb6e6Tx.png" group-title="Hindi", Zeetv
 http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
 
@@ -144,13 +147,13 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNOxztj.jpg" group-title="Hindi", Sony TV
-http://10.16.100.201/hindi/sonytv_1stop_bd.m3u8
+https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902454
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPgTI0r.png" group-title="Hindi", Sony MAX
 http://otv.ftpbd.net/streams/109/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wY69kJ2.png" group-title="Hindi", Colors
-http://10.16.100.201/hindi/colors_1stop_in.m3u8
+https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902453
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest/scale-to-width-down/340?cb=20191222183430" group-title="Hindi", BFlix Movie
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?Live-TV%E2%84%A2
