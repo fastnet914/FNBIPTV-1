@@ -3,7 +3,7 @@
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh", GTV
-http://10.16.100.203:8082/bangla/gtv.m3u8
+https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902475
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh", Asian TV
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
