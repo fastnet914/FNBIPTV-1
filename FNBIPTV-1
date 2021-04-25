@@ -450,6 +450,12 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1 tvg-logo="" group-title="Kids", AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8?Live-TV%E2%84%A2
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AUQH2xn.png" group-title="Kids", Discovery Kids
+https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902471
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/NPZXSZD.jpg" group-title="Kids", Sony yay
+https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902472
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aCpU328.png" group-title="Infotainment", Nat Geo
 http://185.71.64.6:80/8999266861/9205486393/85252
 
