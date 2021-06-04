@@ -3,7 +3,7 @@
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangladesh", GTV
-https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902475
+http://10.16.100.203:8082/bangla/gtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ektolCR.png" group-title="Bangladesh", Asian TV
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
@@ -132,7 +132,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?Live-TV%E2%84%A2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fBcuntW.jpg" group-title="Hindi", STAR Plus
-http://10.16.100.204:8082/hls/starplus_bd_hd.m3u8
+http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i6BTtXf.jpg" group-title="Hindi", &TV
 http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
@@ -147,7 +147,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNOxztj.jpg" group-title="Hindi", Sony TV
-https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902454
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPgTI0r.png" group-title="Hindi", Sony MAX
 https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902457
