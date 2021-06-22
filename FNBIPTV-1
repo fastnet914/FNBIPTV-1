@@ -135,10 +135,7 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?Live-TV%E2%84%A2
 http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i6BTtXf.jpg" group-title="Hindi", &TV
-http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i6BTtXf.jpg" group-title="Hindi", &TV 2
-http://10.16.100.201/hindi/&tv_1stop_bd.m3u8
+http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EzFn347.jpg" group-title="Hindi", &Pictures-1
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
@@ -153,7 +150,7 @@ http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902457
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wY69kJ2.png" group-title="Hindi", Colors
-https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902453
+http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest/scale-to-width-down/340?cb=20191222183430" group-title="Hindi", BFlix Movie
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?Live-TV%E2%84%A2
@@ -270,7 +267,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4S4K9z.jpg" group-title="Music", GaanBangla
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bTYCrJv.jpg" group-title="Music", 9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?Live-TV%E2%84%A2
@@ -343,16 +340,19 @@ http://10.16.100.207:8082/sports/sportst.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports", Sony Ten 1
-http://10.16.100.207:8082/sports/ten1_720.m3u8
+http://10.16.100.207:8082/sports/sony_ten_1_ln.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", SONY TEN 2
-http://otv.ftpbd.net/streams/106/index.m3u8
+http://10.16.100.203:8082/bangla/ten_2_720.m3u8
 
-#EXTINF:-1 tvg-logo=" https://i.imgur.com/3DMwSBJ.png" group-title="Sports", Sony Six
-http://10.16.100.201/hindi/cm_sonysix_hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DMwSBJ.png" group-title="Sports", SONY SIX-1
+http://10.16.100.207:8082/sports/sony_six_uk.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", SONY SIX
-http://otv.ftpbd.net/streams/112/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DMwSBJ.png" group-title="Sports", SONY SIX-2
+http://10.16.100.203:8082/bangla/sony6_1stop_uk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DMwSBJ.png" group-title="Sports", SONY SIX-3
+http://10.16.100.203:8082/bangla/sony6_TV_bkp.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports", STAR Sports 1
 http://otv.ftpbd.net/streams/1004/index.m3u8
