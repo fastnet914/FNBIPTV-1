@@ -92,29 +92,23 @@ http://10.16.100.205/hls/colorsbd480.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvgm1jB.png" group-title="Indian Bangla", Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/olhYIM7.png" group-title="Indian Bangla", Jalsha Movies
-http://otv.ftpbd.net/streams/115/index.m3u8
-
 ##EXTINF:-1 tvg-logo="https://i.imgur.com/E4H6yb0.jpg" group-title="Indian Bangla", Akash8
-http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382913
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzBSI3k.jpg" group-title="Indian Bangla", STAR Jalsha
 http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jow0GIB.jpg" group-title="Indian Bangla", Zee Bangla
-http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7de2eCX.jpg" group-title="Indian Bangla", Zee Bangla Cinema
-https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902450
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382912
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fb6e6Tx.png" group-title="Hindi", Zeetv
-http://cv.khushitv.xyz/channels.php?c=zeetvhd&e=.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Zee_Anmol_Cinema.jpg/revision/latest/scale-to-width-down/340?cb=20171105144732" group-title="Hindi", Zee Anmol Cinema
-http://cv.khushitv.xyz/channels.php?c=zanmolcnm&e=.m3u8
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382919
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest/scale-to-width-down/340?cb=20200113074207" group-title="Hindi", Zee Action
-http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382927
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHVtQi1.jpg" group-title="Hindi", Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
@@ -146,8 +140,23 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNOxztj.jpg" group-title="Hindi", Sony TV
 http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony SAB
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382917
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony PAL
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382918
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPgTI0r.png" group-title="Hindi", Sony MAX HD
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382922
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPgTI0r.png" group-title="Hindi", Sony MAX
-https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902457
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382923
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPgTI0r.png" group-title="Hindi", Sony MAX2
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382924
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi", Sony WAH
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382925
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wY69kJ2.png" group-title="Hindi", Colors
 http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
@@ -408,15 +417,6 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports", CBC Sports
 https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", FC Bayern Munchen TV
-https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports", FOX Sports
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports", Willow
-http://tvserver3.roarzone.info:25461/live/free/roarzone/70.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Kids", PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 
@@ -441,8 +441,11 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-logo="" group-title="Kids", KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids", Nick Jr.
-https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Kids", Nick
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382944
+
+#EXTINF:-1 tvg-logo="" group-title="Kids", Nick HD
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382945
 
 #EXTINF:-1 tvg-logo="" group-title="Kids", Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8?Live-TV%E2%84%A2
@@ -450,23 +453,14 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1 tvg-logo="" group-title="Kids", AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8?Live-TV%E2%84%A2
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AUQH2xn.png" group-title="Kids", Discovery Kids
-https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902471
+#EXTINF:-1 tvg-logo="" group-title="Kids", Sonic
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382946
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NPZXSZD.jpg" group-title="Kids", Sony yay
-https://m3u-editor.com/serve/9e6e6040-a40d-11eb-86e2-853ad6b64216/276902472
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aCpU328.png" group-title="Infotainment", Nat Geo
-http://185.71.64.6:80/8999266861/9205486393/85252
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment", Nat Geo Wild
-http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382943
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery
-http://185.71.64.6:80/8999266861/9205486393/85272
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery Hindi
-https://itvorigin.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382938
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery Turbo
 https://itvorigin.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
@@ -478,7 +472,7 @@ https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
 http://185.71.64.6:80/8999266861/9205486393/85249
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", Animal Planet HD
-http://185.71.64.6:80/8999266861/9205486393/85275
+https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382939
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjEmwoE.jpg" group-title="Infotainment", BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
