@@ -140,23 +140,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNOxztj.jpg" group-title="Hindi", Sony TV
 http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DJZn78G.png" group-title="Hindi", Sony SAB
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382917
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uksu05i.png" group-title="Hindi", Sony PAL
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382918
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HYxNPc8.png" group-title="Hindi", Sony MAX HD
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382922
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fPgTI0r.png" group-title="Hindi", Sony MAX
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382923
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z2HHtA5.png" group-title="Hindi", Sony MAX2
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382924
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KUqPE4w.png" group-title="Hindi", Sony WAH
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382925
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wY69kJ2.png" group-title="Hindi", Colors
 http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
@@ -276,7 +261,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4S4K9z.jpg" group-title="Music", GaanBangla
-http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
+https://rhridoy136.shortcm.li/gaanbangla.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bTYCrJv.jpg" group-title="Music", 9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?Live-TV%E2%84%A2
@@ -458,21 +443,6 @@ https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382946
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NPZXSZD.jpg" group-title="Kids", Sony yay
 https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382943
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382938
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery Turbo
-https://itvorigin.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery Science HINDI
-https://itvorigin.multitvsolution.com/idvo/discoversciencehindi.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment", History
-http://185.71.64.6:80/8999266861/9205486393/85249
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment", Animal Planet HD
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382939
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjEmwoE.jpg" group-title="Infotainment", BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
