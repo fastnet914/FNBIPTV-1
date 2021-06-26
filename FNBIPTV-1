@@ -143,6 +143,21 @@ http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KUqPE4w.png" group-title="Hindi", Sony WAH
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJZn78G.png" group-title="Hindi", Sony SAB
+https://streamer-1.toffeelive.com/mobile_hls/sony_sab/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HYxNPc8.png" group-title="Hindi", Sony MAX HD
+https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fPgTI0r.png" group-title="Hindi", Sony MAX
+https://streamer-1.toffeelive.com/mobile_hls/sony_max/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z2HHtA5.png" group-title="Hindi", Sony MAX2
+https://streamer-1.toffeelive.com/mobile_hls/sony_max_2/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uksu05i.png" group-title="Hindi", Sony PAL
+https://streamer-1.toffeelive.com/mobile_hls/sony_pal/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wY69kJ2.png" group-title="Hindi", Colors
 http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
 
@@ -308,6 +323,9 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music", MTV WMA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Music", VH1 HD
+https://streamer-1.toffeelive.com/mobile_hls/vh1_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dDBRA4L.png" group-title="Music", Wow Music
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 
@@ -331,7 +349,6 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/TSbHhJl.png" group-title="Sports", T Sports-1
 http://10.16.100.207:8082/sports/sportst.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Sports/SonyTen1.png" group-title="Sports", Sony Ten 1
 http://10.16.100.207:8082/sports/sony_ten_1_ln.m3u8
@@ -443,6 +460,30 @@ https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382946
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NPZXSZD.jpg" group-title="Kids", Sony yay
 https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382943
+
+#EXTINF:-1 tvg-logo="" group-title="Kids", Nick HD+
+https://streamer-1.toffeelive.com/mobile_hls/nick_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Kids", Nick
+https://streamer-1.toffeelive.com/mobile_hls/nick/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Kids", Hick JR.
+https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Kids", Discovery Kids
+https://streamer-1.toffeelive.com/mobile_hls/discovery_kids/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Kids", Sony Yay
+https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery
+https://streamer-1.toffeelive.com/mobile_hls/discovery/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery Turbo
+https://streamer-1.toffeelive.com/mobile_hls/dis_turbo/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery Science
+https://streamer-1.toffeelive.com/mobile_hls/dis_sci/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjEmwoE.jpg" group-title="Infotainment", BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
