@@ -93,7 +93,7 @@ http://10.16.100.205/hls/colorsbd480.m3u8
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 
 ##EXTINF:-1 tvg-logo="https://i.imgur.com/E4H6yb0.jpg" group-title="Indian Bangla", Akash8
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382913
+https://streamer-1.toffeelive.com/mobile_hls/akash_aath/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzBSI3k.jpg" group-title="Indian Bangla", STAR Jalsha
 http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
@@ -137,11 +137,14 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EzFn347.jpg" group-title="Hindi", &Pictures-2
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CNOxztj.jpg" group-title="Hindi", Sony TV HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_entertainmnt_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CNOxztj.jpg" group-title="Hindi", Sony TV
-http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
+https://streamer-1.toffeelive.com/mobile_hls/sony_entertainment/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KUqPE4w.png" group-title="Hindi", Sony WAH
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+https://streamer-1.toffeelive.com/mobile_hls/sony_wah/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DJZn78G.png" group-title="Hindi", Sony SAB
 https://streamer-1.toffeelive.com/mobile_hls/sony_sab/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -160,6 +163,12 @@ https://streamer-1.toffeelive.com/mobile_hls/sony_pal/5/04dfcf51f5f17bc7739a41f2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wY69kJ2.png" group-title="Hindi", Colors
 http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wY69kJ2.png" group-title="Hindi", Colors Rishtey
+https://streamer-1.toffeelive.com/mobile_hls/colors_rishtey/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wY69kJ2.png" group-title="Hindi", Colors Indinity HD
+https://streamer-1.toffeelive.com/mobile_hls/colors_infinity_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest/scale-to-width-down/340?cb=20191222183430" group-title="Hindi", BFlix Movie
 https://dreamtv.livebox.co.in/bflixouthls/live.m3u8?Live-TV%E2%84%A2
@@ -187,6 +196,12 @@ http://10.16.100.201/hindi/bforumovies_1stop_in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EZesdRX.jpg" group-title="Hindi", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8?Live-TV%E2%84%A2
+
+#EXTINF:-1 tvg-logo="" group-title="English", Lotus Macau
+https://streamer-1.toffeelive.com/mobile_hls/lotus/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="English", Comedy Central HD
+https://streamer-1.toffeelive.com/mobile_hls/comedy_central_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/47g1op5.png" group-title="English", MBC Action HD-1
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
@@ -218,14 +233,8 @@ http://185.71.64.6:80/8999266861/9205486393/85302
 #EXTINF:-1 tvg-logo="" group-title="English", FOX MOVIES
 http://185.71.64.6:80/8999266861/9205486393/85278
 
-#EXTINF:-1 tvg-logo="" group-title="English", AXN
-http://185.71.64.6:80/8999266861/9205486393/85287
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dZIukWq.jpg" group-title="English", Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jDvMOrc.png" group-title="English", Sony PIX HD
-http://10.16.100.204:8082/hls/sony_pixhd_bd_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/StwSG5C.jpg" group-title="English", &Flix HD-1
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
@@ -241,9 +250,6 @@ https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C4Z5wC5.jpg" group-title="English", American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lG5Cq0E.jpg" group-title="English", Discovery Max Movie
-http://91.126.141.12:1935/live/discoverymax/chunklist_w1033105812.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English", CINEMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
@@ -262,12 +268,6 @@ https://dai.google.com/linear/hls/event/xuMJ1vhQQDGjEWlxK9Qh4w/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xeh3JQi.png" group-title="English", Ten
 http://91.126.141.201:1935/live/smil:ten.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1WtUo50.jpg" group-title="English", UTV Action
-http://otv.ftpbd.net/streams/124/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hZT0jQz.png" group-title="English", Fashion TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English", HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
@@ -305,8 +305,17 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 #EXTINF:-1 tvg-logo="" group-title="Music", Zoom
 http://tvserver3.roarzone.info:25461/live/free/roarzone/60.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Music", Zing
+https://streamer-1.toffeelive.com/mobile_hls/zing_sd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b1CvJaq.jpg" group-title="Music", MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b1CvJaq.jpg" group-title="Music", MTV
+https://streamer-1.toffeelive.com/mobile_hls/mtv/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b1CvJaq.jpg" group-title="Music", MTV Beats HD
+https://streamer-1.toffeelive.com/mobile_hls/mtv_beats_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bVQySZm.jpg" group-title="Music", MTV Spankin
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
@@ -407,9 +416,6 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
 #EXTINF:-1 tvg-logo="" group-title="Sports", Dubai Sports 2
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
 
-#EXTINF:-1 tvg-logo="" group-title="Sports", PTV Sports
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Sports", US Sports
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
@@ -443,12 +449,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 tvg-logo="" group-title="Kids", KETNET JUNIOR
 http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Kids", Nick
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382944
-
-#EXTINF:-1 tvg-logo="" group-title="Kids", Nick HD
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382945
-
 #EXTINF:-1 tvg-logo="" group-title="Kids", Animax
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8?Live-TV%E2%84%A2
 
@@ -456,10 +456,10 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 http://210.210.155.35/dr9445/h/h02/01.m3u8?Live-TV%E2%84%A2
 
 #EXTINF:-1 tvg-logo="" group-title="Kids", Sonic
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382946
+https://streamer-1.toffeelive.com/mobile_hls/sonic/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NPZXSZD.jpg" group-title="Kids", Sony yay
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382943
+https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="" group-title="Kids", Nick HD+
 https://streamer-1.toffeelive.com/mobile_hls/nick_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -473,8 +473,6 @@ https://streamer-1.toffeelive.com/mobile_hls/nick_junior/5/04dfcf51f5f17bc7739a4
 #EXTINF:-1 tvg-logo="" group-title="Kids", Discovery Kids
 https://streamer-1.toffeelive.com/mobile_hls/discovery_kids/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
-#EXTINF:-1 tvg-logo="" group-title="Kids", Sony Yay
-https://streamer-1.toffeelive.com/mobile_hls/sony_yay/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", Discovery
 https://streamer-1.toffeelive.com/mobile_hls/discovery/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
@@ -487,6 +485,15 @@ https://streamer-1.toffeelive.com/mobile_hls/dis_sci/5/04dfcf51f5f17bc7739a41f29
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wjEmwoE.jpg" group-title="Infotainment", BBC World
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wjEmwoE.jpg" group-title="Infotainment", BBC Earth HD
+https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wjEmwoE.jpg" group-title="Infotainment", BBC Earth
+https://streamer-1.toffeelive.com/mobile_hls/sony_bbc_earth/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="" group-title="Infotainment",TLC HD
+https://streamer-1.toffeelive.com/mobile_hls/tlc_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="" group-title="Infotainment", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/index.m3u8
