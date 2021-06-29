@@ -110,6 +110,12 @@ https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382912
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fb6e6Tx.png" group-title="Hindi", Zeetv
 http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
 
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Hindi", Zee TV HD
+https://streamer-1.toffeelive.com/mobile_hls/zee_tv_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" group-title="Hindi", Zee TV SD
+https://streamer-1.toffeelive.com/mobile_hls/Zee_TV/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest/scale-to-width-down/340?cb=20200113074207" group-title="Hindi", Zee Action
 https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382927
 
