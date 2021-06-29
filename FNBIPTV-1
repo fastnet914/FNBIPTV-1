@@ -86,8 +86,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cSM5YAz.jpg" group-title="Bangladesh", Nandan
 http://nandansyst.com/hls/nandan.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Indian Bangla", Colors Bangla
-http://10.16.100.205/hls/colorsbd480.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Indian Bangla", Colors Bangla HD
+https://streamer-1.toffeelive.com/mobile_hls/colors_b_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ahmadrifat/tv_channels/master/tv_logo/Bangla/ColorsBangla.png" group-title="Indian Bangla", Colors Bangla SD
+https://streamer-1.toffeelive.com/mobile_hls/colors_b/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tvgm1jB.png" group-title="Indian Bangla", Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
@@ -105,7 +108,7 @@ http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382912
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fb6e6Tx.png" group-title="Hindi", Zeetv
-https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382919
+http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest/scale-to-width-down/340?cb=20200113074207" group-title="Hindi", Zee Action
 https://m3u-editor.com/serve/f4ec7260-d362-11eb-8397-7d68b6ef9d40/322382927
