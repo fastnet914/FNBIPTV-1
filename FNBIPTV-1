@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DMwSBJ.png" group-title="Football", SONY SIX-1
+http://10.16.100.203:8082/bangla/sony6_1stop_uk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DMwSBJ.png" group-title="Football", SONY SIX-2
+http://10.16.100.203:8082/bangla/sony6_TV_bkp.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3DMwSBJ.png" group-title="Football", SONY SIX-3
+http://10.16.100.203:8082/bangla/ten_3_720.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh", BTV World
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
